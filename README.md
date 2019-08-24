@@ -7,7 +7,7 @@ Download
     git clone https://github.com/benrussell80/StatMechProject
 
 ### EDA and Results in Jupyter Notebook
-The jupyter notebook `StatMechProject.ipynb` contains exploratory data analysis of the data set I performed using seaborn, matplotlib, and pandas.
+The jupyter notebook `StatMechProject.ipynb` contains exploratory data analysis I performed on the data set using seaborn, matplotlib, and pandas.
 
 I then trained a decision-tree classifier and a random-forest classifier from scikit-learn on the data set. I used visualization tools to investigate the inner workings of the classifiers and elucidate metrics such as feature importance, accuracy, recall, precision, and f1-score.
 
